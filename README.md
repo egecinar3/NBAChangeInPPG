@@ -1,3 +1,3 @@
 NBA Change in PPG between 2020 - 2021 regular seasons in R
 
-![proje](https://user-images.githubusercontent.com/62355857/129099337-46a7e65e-acd2-4c96-b59a-31abbcfc1436.png)
+![project](https://user-images.githubusercontent.com/62355857/129207933-805f1744-da2c-468a-9c3a-50bf6e6c5f28.png)
